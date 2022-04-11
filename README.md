@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World!!! 👋
+
+My name is Muhammad Roisul Adib 🇮🇩,
+I love coding.
+
+Want to know more about me? let's connect:
+* [linkedin](https://www.linkedin.com/in/muhammad-roisul-adib-3730421ab/)
+* [youtube](https://www.youtube.com/channel/UCJE0Mi4Dk5wDpQLA-k0W_yg)
+* [others](http://roisuladib.com/)
 
 <!--
 **roisuladib/roisuladib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
