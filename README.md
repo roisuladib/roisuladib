@@ -6,6 +6,7 @@ I love coding.
 Want to know more about me? let's connect:
 * [linkedin](https://www.linkedin.com/in/muhammad-roisul-adib-3730421ab/)
 * [youtube](https://www.youtube.com/channel/UCJE0Mi4Dk5wDpQLA-k0W_yg)
+* [email](adib17r@gmail.com/)
 * [others](http://roisuladib.com/)
 
 <!--
